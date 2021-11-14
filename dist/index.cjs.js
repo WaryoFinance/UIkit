@@ -1865,7 +1865,7 @@ var Icon$L = function (props) {
 };
 
 var Icon$M = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
+    return (React__default['default'].createElement("svg", __assign({ id: "Flat", height: "512", viewBox: "0 0 128 128", width: "512", xmlns: "http://www.w3.org/2000/svg" }, props),
         React__default['default'].createElement("path", { d: "m89.455 28.258h11.74v25.334h-11.74z", fill: "#d3a46a" }),
         React__default['default'].createElement("path", { d: "m119 67.517-6.793 7.527-6.374-5.753-41.833-37.727-41.833 37.727-6.374 5.753-6.793-7.527 55-49.614z", fill: "#e95a6a" }),
         React__default['default'].createElement("path", { d: "m105.833 69.291v40.806h-83.666v-40.806l41.833-37.727z", fill: "#e1b378" }),
