@@ -27,3 +27,5 @@ export { default as VaultsIcon } from "./Vaults";
 export { default as EggHouseIcon } from "./EggHouse";
 export { default as CreamIcon } from "./Cream";
 export { default as FlavorIcon } from "./Flavor";
+export { default as DoctorIcon } from "./Doctor";
+export { default as TestTubeIcon } from "./TestTube";
